@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ 
+
+body{
+    background-color: #CD5D5D;
+   
+}
+
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 46px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+.card{
+    width: 300px;
+    text-align: center;
+    height: 300px;
+    background-color: black;
+    display: flex;
+    margin: 20px;
+    gap: 20px;
+    flex-wrap: wrap
+}
+
+img{
+width: 300px;
+height: 140px;
+top: 173px;
+left: 166px;
+
+}
+
+
+.white{
+color: white;
+width: 246;
+height: 72;
+top: 377px;
+left: 190px;
+margin-bottom: 20px;
+
+}
+
+
+span{
+    color: yellow;
+}
+
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    margin-top: 23px;
+}
+
+
+.width{
+width: 100;
+height: 37;
+top: 113px;
+left: 166px;
+font-family: Inter;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+}
+
+
+.whites{
+width: 202;
+height: 28;
+top: 331px;
+left: 215px;
+font-family: Inter;
+font-weight: 700;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: white;
+}
+
+
+
+
+
+
+
+
